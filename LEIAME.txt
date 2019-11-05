@@ -1,0 +1,23 @@
+EdTextos, versão 2.0 beta (de 5 de nov. 2019)
+O EdTextos é um editor de textos completamente em nuvem, com um design bonito e (para quem não se importa com ícones conceituais) intuitivo.
+
+Construído como um "quebra-galho" para a falta de criatividade para um projeto de uma disciplina de programção para a web (do curso Técnico em Informática, IFRN Campus Ipanguaçu, RN, Brasil), o seu objetivo foi ser uma versão online do AEditor, o editor de textos rápido e customizável que foi desenvolvido por Cledson Ferreira como um hobby, e ainda com sugestões de design de seus colegas.
+
+Esta versão contém várias correções de bugs em relação à versão apresentada em ambiente acadêmico, mas ainda não está completa.
+
+Recursos AE:
+[ ] memorizar posição do cursor para cada texto;
+[ ] temas e fontes para cada texto;
+[ ] remover texto;
+[ ] ordenação por últimos textos abertos;
+[ ] salvar como arquivo.
+
+Recursos de segurança:
+[ ] criptografia de senha;
+[ ] {manda um pull request com sua sugestão :)}
+
+Recursos experimentais:
+[ ] compartilhamento de notas.
+
+
+by Lesdo
